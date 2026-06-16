@@ -1,2 +1,28 @@
-# fc1f426d-maritime-shipping-inventory
-Tired of losing track of life rafts, spare parts, and cargo across your fleet? Stop drowning in spreadsheets and start managing every asset from bridge to shore in one place.  The Maritime &amp; Shipping Inventory and Asset Management Notion Template consolidates your entire asset lifecycle—from procurement to disposal—into a single, searchable system.
+# Maritime & Shipping Inventory and Asset Management Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/6oU9AT7r12k49JK1Zid0k0q)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/6oU9AT7r12k49JK1Zid0k0q)
+
